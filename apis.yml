@@ -1,0 +1,86 @@
+name: Matplotlib
+description: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
+image: https://matplotlib.org/stable/_static/logo2.svg
+url: https://matplotlib.org
+created: '2024'
+modified: '2024'
+apis:
+- name: Matplotlib Core API
+  description: Python API for creating publication-quality figures and plots
+  image: https://matplotlib.org/stable/_static/logo2.svg
+  humanURL: https://matplotlib.org/stable/api/index.html
+  baseURL: https://matplotlib.org
+  tags:
+  - Visualization
+  - Plotting
+  - Python
+  - Charts
+  - Graphs
+  properties:
+  - type: Documentation
+    url: https://matplotlib.org/stable/contents.html
+  - type: API Documentation
+    url: https://matplotlib.org/stable/api/index.html
+  - type: Tutorials
+    url: https://matplotlib.org/stable/tutorials/index.html
+  - type: Examples
+    url: https://matplotlib.org/stable/gallery/index.html
+  - type: Getting Started
+    url: https://matplotlib.org/stable/users/getting_started/index.html
+- name: Pyplot API
+  description: State-based interface to Matplotlib for MATLAB-like plotting
+  humanURL: https://matplotlib.org/stable/api/pyplot_summary.html
+  baseURL: https://matplotlib.org
+  tags:
+  - Plotting
+  - Python
+  - Interface
+  properties:
+  - type: API Documentation
+    url: https://matplotlib.org/stable/api/pyplot_summary.html
+  - type: Tutorial
+    url: https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+- name: Matplotlib Axes API
+  description: Object-oriented interface for creating and customizing plots
+  humanURL: https://matplotlib.org/stable/api/axes_api.html
+  baseURL: https://matplotlib.org
+  tags:
+  - Plotting
+  - Object-Oriented
+  - Customization
+  properties:
+  - type: API Documentation
+    url: https://matplotlib.org/stable/api/axes_api.html
+maintainers:
+- name: Matplotlib Development Team
+  email: matplotlib-users@python.org
+  url: https://matplotlib.org/stable/devel/index.html
+common:
+- type: GitHub Repository
+  url: https://github.com/matplotlib/matplotlib
+- type: Installation Guide
+  url: https://matplotlib.org/stable/users/installing/index.html
+- type: FAQ
+  url: https://matplotlib.org/stable/faq/index.html
+- type: Release Notes
+  url: https://matplotlib.org/stable/users/release_notes.html
+- type: Contributing Guide
+  url: https://matplotlib.org/stable/devel/contributing.html
+- type: License
+  url: https://matplotlib.org/stable/users/project/license.html
+- type: Community
+  url: https://matplotlib.org/stable/users/project/community.html
+- type: Discourse Forum
+  url: https://discourse.matplotlib.org/
+- type: Stack Overflow
+  url: https://stackoverflow.com/questions/tagged/matplotlib
+- type: Citation
+  url: https://matplotlib.org/stable/users/project/citing.html
+tags:
+- Visualization
+- Data Science
+- Python
+- Plotting
+- Charts
+- Scientific Computing
+- Open Source
