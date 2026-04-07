@@ -10,13 +10,13 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/matplotlib/refs/heads/main/apis.yml
 tags:
-  - Visualization
-  - Data Science
-  - Python
-  - Plotting
   - Charts
-  - Scientific Computing
+  - Data Science
   - Open Source
+  - Plotting
+  - Python
+  - Scientific Computing
+  - Visualization
 created: '2024-01-01'
 modified: '2026-03-16'
 specificationVersion: '0.19'
@@ -28,9 +28,9 @@ apis:
       the pyplot state-based interface and the object-oriented Axes API.
     humanURL: https://matplotlib.org/stable/api/index.html
     tags:
-      - Visualization
       - Plotting
       - Python
+      - Visualization
     properties:
       - type: Documentation
         url: https://matplotlib.org/stable/contents.html
