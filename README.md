@@ -1,81 +1,48 @@
 # Matplotlib (matplotlib)
-Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
+Matplotlib is a comprehensive open source library for creating static, animated, and interactive visualizations in Python. It provides a MATLAB-like interface via pyplot and an object-oriented API for full customization of publication-quality figures and plots.
 
-**URL:** [Visit APIs.json URL](https://matplotlib.org)
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/matplotlib/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Index
+- **Position:** Consuming
+- **Access:** 3rd-Party
 
 ## Tags:
 
- - Visualization, Data Science, Python, Plotting, Charts, Scientific Computing, Open Source
+ - Charts, Data Science, Open Source, Plotting, Python, Scientific Computing, Visualization
 
 ## Timestamps
 
-- **Created:** 2024 
-- **Modified:** 2024 
+- **Created:** 2024-01-01
+- **Modified:** 2026-04-28
 
 ## APIs
 
 ### Matplotlib Core API
-Python API for creating publication-quality figures and plots
+Python API for creating publication-quality figures and plots, including the pyplot state-based interface and the object-oriented Axes API.
 
 **Human URL:** [https://matplotlib.org/stable/api/index.html](https://matplotlib.org/stable/api/index.html)
 
-
 #### Tags:
 
- - Visualization, Plotting, Python, Charts, Graphs
+ - Plotting, Python, Visualization
 
 #### Properties
 
 - [Documentation](https://matplotlib.org/stable/contents.html)
-- [API Documentation](https://matplotlib.org/stable/api/index.html)
-- [Tutorials](https://matplotlib.org/stable/tutorials/index.html)
-- [Examples](https://matplotlib.org/stable/gallery/index.html)
+- [Reference](https://matplotlib.org/stable/api/index.html)
 - [Getting Started](https://matplotlib.org/stable/users/getting_started/index.html)
-
-### Pyplot API
-State-based interface to Matplotlib for MATLAB-like plotting
-
-**Human URL:** [https://matplotlib.org/stable/api/pyplot_summary.html](https://matplotlib.org/stable/api/pyplot_summary.html)
-
-
-#### Tags:
-
- - Plotting, Python, Interface
-
-#### Properties
-
-- [API Documentation](https://matplotlib.org/stable/api/pyplot_summary.html)
-- [Tutorial](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
-
-### Matplotlib Axes API
-Object-oriented interface for creating and customizing plots
-
-**Human URL:** [https://matplotlib.org/stable/api/axes_api.html](https://matplotlib.org/stable/api/axes_api.html)
-
-
-#### Tags:
-
- - Plotting, Object-Oriented, Customization
-
-#### Properties
-
-- [API Documentation](https://matplotlib.org/stable/api/axes_api.html)
 
 ## Common Properties
 
-- [GitHub Repository](https://github.com/matplotlib/matplotlib)
-- [Installation Guide](https://matplotlib.org/stable/users/installing/index.html)
-- [FAQ](https://matplotlib.org/stable/faq/index.html)
-- [Release Notes](https://matplotlib.org/stable/users/release_notes.html)
-- [Contributing Guide](https://matplotlib.org/stable/devel/contributing.html)
-- [License](https://matplotlib.org/stable/users/project/license.html)
-- [Community](https://matplotlib.org/stable/users/project/community.html)
-- [Discourse Forum](https://discourse.matplotlib.org/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/matplotlib)
-- [Citation](https://matplotlib.org/stable/users/project/citing.html)
+- [Website](https://matplotlib.org/)
+- [GitHub Organization](https://github.com/matplotlib/matplotlib)
+- [Community](https://discourse.matplotlib.org/)
 
 ## Maintainers
 
-**FN:** Matplotlib Development Team
+**FN:** Kin Lane
 
-**Email:** matplotlib-users@python.org
+**Email:** kin@apievangelist.com
