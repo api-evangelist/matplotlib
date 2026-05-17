@@ -36,12 +36,12 @@ apis:
         url: https://matplotlib.org/stable/contents.html
       - type: Reference
         url: https://matplotlib.org/stable/api/index.html
-      - type: Getting Started
+      - type: GettingStarted
         url: https://matplotlib.org/stable/users/getting_started/index.html
 common:
   - type: Website
     url: https://matplotlib.org/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/matplotlib/matplotlib
   - type: Community
     url: https://discourse.matplotlib.org/
