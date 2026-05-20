@@ -39,6 +39,8 @@ apis:
       - type: GettingStarted
         url: https://matplotlib.org/stable/users/getting_started/index.html
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/matplotlib
   - type: Website
     url: https://matplotlib.org/
   - type: GitHubOrganization
