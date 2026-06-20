@@ -6,7 +6,7 @@ description: >-
   interface via pyplot and an object-oriented API for full customization of
   publication-quality figures and plots.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/matplotlib/refs/heads/main/apis.yml
 tags:
