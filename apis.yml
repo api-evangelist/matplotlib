@@ -39,6 +39,8 @@ apis:
       - type: GettingStarted
         url: https://matplotlib.org/stable/users/getting_started/index.html
 common:
+  - type: DomainSecurity
+    url: security/matplotlib-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/matplotlib
   - type: Website
