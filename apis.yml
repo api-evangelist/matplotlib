@@ -35,7 +35,7 @@ url: >-
 tags:
   - Charts
   - Data Science
-  - Open-Source
+  - Open Source
   - Plotting
   - Python
   - Scientific Computing
@@ -48,6 +48,7 @@ tags_raw:
   - Python
   - Scientific Computing
   - Visualization
+  - Open-Source
 created: '2024-01-01'
 modified: '2026-04-28'
 specificationVersion: '0.23'
